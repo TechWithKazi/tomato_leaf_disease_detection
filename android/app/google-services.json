@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761073331669",
+    "project_id": "tomatoe-leaf-disease",
+    "storage_bucket": "tomatoe-leaf-disease.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761073331669:android:dc66ad00be87faaafbe15c",
+        "android_client_info": {
+          "package_name": "com.example.tomatoe_leaf_disease_detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt7hFisOVXO3EuaCY5OkQ8hYF0S_VRYUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

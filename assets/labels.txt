@@ -1,0 +1,11 @@
+Not a Leaf
+bacterial_spot
+early_blight
+healthy
+late_blight
+leaf_curl
+leaf_mold
+Class 8
+septoria_leaf_spot
+spider_mites
+Class 11
